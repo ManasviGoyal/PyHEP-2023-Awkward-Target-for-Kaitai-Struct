@@ -1,0 +1,9 @@
+
+name: awkward-kaitai
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy==1.21.0
+  - awkward==2.4.3

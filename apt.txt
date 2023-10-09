@@ -1,0 +1,2 @@
+libgtest-dev
+sbt
